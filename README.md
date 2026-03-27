@@ -4,6 +4,10 @@
 
 ## 文档目录
 
+### 流程
+
+[流程图](./doc/workflow.md)
+
 ### 安装
 
 [安装指导](./doc/installation.md)
